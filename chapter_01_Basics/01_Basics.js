@@ -1,1 +1,1 @@
-console.log("testing academy);
+console.log("testing academy");
