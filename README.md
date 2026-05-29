@@ -74,7 +74,7 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/sairamreddypyata/LearnPlaywrightBatch2x.git
-cd LearnPlaywrightBatcht2x
+cd LearnPlaywrightBatch2x
 ```
 
 ### 2. Install Dependencies
@@ -196,7 +196,13 @@ Feel free to:
 
 ---
 
-## 📄 License
+## � README Update
+
+This README was updated to clarify repository setup instructions and improve documentation for learners.
+
+---
+
+## �📄 License
 
 This project is open for educational purposes. Feel free to use and modify for your learning.
 
