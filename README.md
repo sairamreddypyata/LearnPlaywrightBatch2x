@@ -196,13 +196,13 @@ Feel free to:
 
 ---
 
-## � README Update
+## 📌 README Update
 
 This README was updated to clarify repository setup instructions and improve documentation for learners.
 
 ---
 
-## �📄 License
+## 📄 License
 
 This project is open for educational purposes. Feel free to use and modify for your learning.
 
