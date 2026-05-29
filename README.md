@@ -38,10 +38,20 @@ Understanding naming conventions, identifiers, literals, and code documentation 
 - **VSCode_Shortcuts_Windows.md** - Essential VS Code shortcuts for Windows users to boost productivity
 
 ### Chapter 04: JavaScript Concepts (Advanced)
-Deep dive into JavaScript variables, scoping, and function concepts.
-- **09_var_let_const.js** - Differences between var, let, and const; hoisting and scoping
-- **10_functions.js** - Function declaration, arrow functions, and best practices
-- **11_var_explained.js** - In-depth exploration of variable declarations and their behavior
+Deep dive into JavaScript variables, scoping, functions, hoisting, and runtime behavior.
+- **09_var_let_const.js** - Differences between var, let, and const and their scope rules
+- **10_functions.js** - Function declarations, expressions, arrow functions, and invocation
+- **11_var_explained.js** - In-depth exploration of `var` and variable behavior
+- **12_let_explained.js** - Detailed analysis of `let` and block scoping
+- **13_const_explained.js** - Constants, immutability, and best practices
+- **14_var_functionscope.js** - Function scope versus global scope for `var`
+- **15_let_scope.js** - Block scope behavior with `let`
+- **16_hoisting.js** - Hoisting fundamentals and variable initialization
+- **17_hoisting_fn.js** - Function hoisting and declaration order
+- **18_let_hoisting.js** - Temporal Dead Zone and `let` hoisting
+- **19_let_hoisting_block.js** - Hoisting behavior inside block scopes
+- **20_let_const.js** - Combining `let` and `const` in modern JavaScript
+- **21_JR_QA.js** - JavaScript questions and answers for review
 
 ---
 
@@ -113,6 +123,10 @@ node chapter_01_Basics/01_Basics.js
 
 # Run all scripts in a chapter (example)
 for file in chapter_01_Basics/*.js; do node "$file"; done
+
+# Run Chapter 04 scripts
+node chapter_04_Javascript_Concepts/09_var_let_const.js
+node chapter_04_Javascript_Concepts/21_JR_QA.js
 
 # Install a specific Playwright browser
 npx playwright install chromium
@@ -194,9 +208,6 @@ Feel free to:
 - **Ask questions:** Refer to official documentation when stuck
 - **Review:** Revisit earlier chapters if concepts feel unclear
 
----
-
-## 📌 README Update
 
 This README was updated to clarify repository setup instructions and improve documentation for learners.
 
