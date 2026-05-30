@@ -55,6 +55,18 @@ Deep dive into JavaScript variables, scoping, functions, hoisting, and runtime b
 
 ---
 
+### Chapter 05: Literal
+Literal and data type examples used throughout the course.
+- **22_Literal.js** - Basic literal examples
+- **23_null_undefined.js** - `null` vs `undefined` examples and behaviors
+- **24_null.js** - Deep dive on `null` usage
+- **25_Literal_All.js** - Combined literal examples
+- **26_Literal_Number_all.js** - Number literal and numeric operations
+- **27_String.js** - String literals and manipulation
+- **28_Template_Literal.js** - Template literals and interpolation
+- **29_Backtick_single_double.js** - Backtick vs single/double quote examples
+
+
 ## 🎯 Learning Objectives
 
 By completing this course, you will:
@@ -235,7 +247,7 @@ For questions or issues:
 
 ---
 
-**Last Updated:** May 2026  
+**Last Updated:** May 30, 2026  
 **Course Status:** In Development  
 **Difficulty Level:** Beginner to Intermediate
 
